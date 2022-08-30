@@ -1,0 +1,15 @@
+body{
+	color: white;
+	background-color: black;
+	font-family: sans-serif;
+}
+h1{
+	color: blue;
+
+}
+h2{
+	color: yellow;
+}
+.container{
+	padding: 0px 50 px;
+}
